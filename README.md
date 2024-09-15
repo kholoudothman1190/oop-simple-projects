@@ -1,1 +1,1 @@
-# oop-simple-projects
+# oop-small-projects
